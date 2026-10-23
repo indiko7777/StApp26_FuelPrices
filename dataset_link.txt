@@ -1,0 +1,18 @@
+Dataset: Prix des carburants en France - Flux quotidien
+Publisher: Ministères économiques et financiers
+Page: https://www.data.gouv.fr/datasets/prix-des-carburants-en-france-flux-quotidien-1
+License: Licence Ouverte / Open Licence (Etalab)
+
+Yearly history files used (2019 to 2025), linked as the source on the data.gouv.fr page:
+https://donnees.roulez-eco.fr/opendata/annee/2019
+https://donnees.roulez-eco.fr/opendata/annee/2020
+https://donnees.roulez-eco.fr/opendata/annee/2021
+https://donnees.roulez-eco.fr/opendata/annee/2022
+https://donnees.roulez-eco.fr/opendata/annee/2023
+https://donnees.roulez-eco.fr/opendata/annee/2024
+https://donnees.roulez-eco.fr/opendata/annee/2025
+
+Department shapes (for the map only):
+https://github.com/gregoiredavid/france-geojson (departements-version-simplifiee.geojson)
+
+Downloaded on 21/10/2026.
