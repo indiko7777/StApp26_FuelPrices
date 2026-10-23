@@ -3,8 +3,9 @@
 Streamlit dashboard, EFREI Data Visualization project 2026.
 By Indiko JABUA (Data Engineering, M1). Project proposed by Prof. Mano Mathew.
 
-Live app: `<add link>`
-Demo video: `<add link>`
+Live app: https://fuel-prices-france-jabua.streamlit.app  
+Code: https://github.com/indiko7777/StApp26_FuelPrices  
+Demo video: `StApp26_20221030_JABUA_DE1_demo.mp4` (in the zip)
 
 ## The story
 
